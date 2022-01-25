@@ -1,4 +1,4 @@
-                                                                                 TRAVEL ADVISOR
+                                                                      TRAVEL ADVISOR
       
       
 The purpose of this application is to provide the user with a list of the best and worst
